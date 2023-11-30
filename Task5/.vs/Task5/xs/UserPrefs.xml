@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DBA5F1DB-7515-4C50-BC24-1F34EC179C69}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task5/Stack.cs">
+    <Files>
+      <File FileName="Task5/Program.cs" Line="51" Column="7" />
+      <File FileName="Task5/Stack.cs" Line="64" Column="10" />
+      <File FileName="Task5/Point.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task5" expanded="True">
+            <Node name="Task5" expanded="True">
+              <Node name="Stack.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+Date, Time:         	Name:               	Change Type:
+-----------------------------------------------------------
+06 Dec 2022, 14:00  	Program.cs          	CREATED   
+06 Dec 2022, 14:00  	Program.cs          	CREATED   
+06 Dec 2022, 14:00  	EmptyClass.cs       	CHANGED   
+06 Dec 2022, 14:00  	EmptyClass.cs       	CREATED   
+06 Dec 2022, 14:00  	EmptyClass.cs       	CHANGED   
+06 Dec 2022, 14:00  	EmptyClass.cs       	CREATED   
+06 Dec 2022, 14:00  	EmptyClass.cs       	CHANGED   
+06 Dec 2022, 14:00  	EmptyClass.cs       	CREATED   
+01 Jan 1601, 02:31  	EmptyClass.cs       	CHANGED   
+01 Jan 1601, 02:31  	EmptyClass.cs       	CREATED   
+06 Dec 2022, 14:00  	qwsqw.cs            	RENAMED   
+06 Dec 2022, 14:01  	qwsqw.cs            	DELETED   

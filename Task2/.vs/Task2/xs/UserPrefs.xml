@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B5365644-C2E6-4B09-92DE-6DA0B3148D8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task2/Program.cs">
+    <Files>
+      <File FileName="Task2/Program.cs" Line="55" Column="71" />
+      <File FileName="Task2/Complex.cs" />
+      <File FileName="Task2/Body3D.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task2" expanded="True">
+            <Node name="Task2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

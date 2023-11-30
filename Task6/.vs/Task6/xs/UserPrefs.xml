@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6E77AD62-1FE6-4A9B-88F9-38FABB6CD0AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task6/EngRusDict.cs">
+    <Files>
+      <File FileName="Task6/Program.cs" Line="124" Column="1" />
+      <File FileName="Task6/EngRusDict.cs" Line="190" Column="100" />
+      <File FileName="Task6/PrimeNumberSeq.cs" />
+      <File FileName="Task6/TestingFromConsole.cs" Line="62" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task6" expanded="True">
+            <Node name="Task6" expanded="True">
+              <Node name="EngRusDict.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
